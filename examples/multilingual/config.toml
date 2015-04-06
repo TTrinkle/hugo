@@ -1,6 +1,0 @@
-baseurl = ""
-
-[taxonomies]
-tag = "tags"
-group = "groups"
-menu = "menu"
