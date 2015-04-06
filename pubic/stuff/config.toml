@@ -1,0 +1,26 @@
+baseurl = "http://yourSiteHere"
+languageCode = "en-us"
+title = "Tanya Trinkle"
+theme = "hugo-uno"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+
+canonifyurls = true
+
+author = "Tanya Trinkle"
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Tanya Trinkle"
+  github = "TTrinkle"
+ 
+
+  email = "tanya.trinkle@gmail.com"
+  description = ""
+
+  muut = ""
+ 
+  cover = "/images/NYC.jpg"
