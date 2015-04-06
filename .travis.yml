@@ -1,0 +1,11 @@
+language: go
+go:
+  - 1.3
+  - tip
+script:
+  - go test ./...
+  - go build
+  - ./hugo -s docs/
+install:
+  - go get github.com/stretchr/testify
+  - go get -v ./...
